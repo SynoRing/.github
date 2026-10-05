@@ -19,14 +19,6 @@
   <a href="https://x.com/SynoRing">X</a>
 </p>
 
-<p align="center">
-  <a href="https://www.synoring.ai">
-    <img src="./assets/synoring-graphite-1200.webp" alt="SynoRing gesture control ring in Space Gray" width="400" />
-  </a>
-  <br />
-  <sub>Meet SynoRing R1. Touch and motion, in a ring.</sub>
-</p>
-
 ## Spatial computing needs a smaller gesture
 
 AR glasses change where information lives. We’re exploring how we interact with it.
